@@ -1,0 +1,14 @@
+body {
+    font-family: 'Trebuchet MS', san-serif;
+    margin: 50px;
+    max-width: 700px;
+    line-height: 1.4;
+}
+
+h2 {
+    border-bottom: 1px solid black
+}
+
+a:link, a:visited {
+    color: #cc0000
+}
