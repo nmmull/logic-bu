@@ -9,6 +9,21 @@ h2 {
     border-bottom: 1px solid black
 }
 
+th {
+  text-align: left;
+}
+
+td, th {
+    padding: 0.3em;
+}
+
+table {
+    width: 100%;
+    /* border-top: 1px solid black; */
+    /* border-bottom: 1px solid black; */
+    border-collapse: collapse;
+}
+
 a:link, a:visited {
     color: #cc0000
 }
