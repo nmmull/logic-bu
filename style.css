@@ -25,3 +25,11 @@ table {
 a:link, a:visited {
     color: #cc0000
 }
+
+ul {
+    list-style-type: "+ ";
+}
+
+tr {
+    border-bottom: 1px solid #ccc;
+}
